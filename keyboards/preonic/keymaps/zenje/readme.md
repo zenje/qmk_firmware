@@ -1,8 +1,7 @@
-# zenje's preonic keymap
-
 Some modifications off of the default preonic keymap!
 
 ## Qwerty
+```
 /* Qwerty
  * ,-----------------------------------------------------------------------------------.
  * |   `  |   1  |   2  |   3  |   4  |   5  |   6  |   7  |   8  |   9  |   0  | Bksp |
@@ -16,8 +15,10 @@ Some modifications off of the default preonic keymap!
  * | Num  | Ctrl | Alt  | GUI  |Lower |    Space    |Raise |   /  | Left | Down |Right |
  * `-----------------------------------------------------------------------------------'
  */
+ ```
 
  ## Lower
+ ```
  /* Lower
  * ,-----------------------------------------------------------------------------------.
  * |RGBTog| BriDn| BriUp|      |      |      |      |      |   +  |   -  |   _  |   =  |
@@ -31,8 +32,10 @@ Some modifications off of the default preonic keymap!
  * |      |      |      |      |      |     Play    |      |   /  | Prev | Vol- | Next |
  * `-----------------------------------------------------------------------------------'
  */
+ ```
 
  ## Raise
+ ```
  /* Raise
  * ,-----------------------------------------------------------------------------------.
  * |RGBTog| RgbH | RGBS | RGBV |      |      |      |      |      | Pscr |      | Sleep|
@@ -46,8 +49,10 @@ Some modifications off of the default preonic keymap!
  * | Mario| Rick |      |      |      |     Play    |      |      | Prev | Vol- | Next |
  * `-----------------------------------------------------------------------------------'
  */
+ ```
 
 ## Numpad + WASD
+```
  /* Numpad + WASD
  * ,-----------------------------------------------------------------------------------.
  * |      |      |      |      |      |      |      |   _  |   /  |   *  |   -  | Bksp |
@@ -61,8 +66,10 @@ Some modifications off of the default preonic keymap!
  * |      |      |      |      |      |             |   0  |   0  |   .  | Enter|   =  |
  * `-----------------------------------------------------------------------------------'
  */
+ ```
 
 ## Adjust (Lower + Raise)
+```
  /* Adjust (Lower + Raise)
  * ,-----------------------------------------------------------------------------------.
  * |  F1  |  F2  |  F3  |  F4  |  F5  |  F6  |  F7  |  F8  |  F9  |  F10 |  F11 |  F12 |
@@ -76,3 +83,4 @@ Some modifications off of the default preonic keymap!
  * |      |      |      |      |      |             |      |      |      |      |      |
  * `-----------------------------------------------------------------------------------'
  */
+ ```
